@@ -12,7 +12,9 @@ Skills:  REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MH-Shawon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohsin-shawon-324b9b1b7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ajmexceptional.shawon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shaaw_o_n/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MhShawo50365332)  
 
-![MH-Shawon's Stats](https://github-readme-stats.vercel.app/api?username=MH-Shawon&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+![MH-Shawon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MH-Shawon&theme=monokai&show_icons=true&hide_border=false&layout=compact) ![MH-Shawon's Stats](https://github-readme-stats.vercel.app/api?username=MH-Shawon&theme=monokai&show_icons=true&hide_border=false&count_private=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MH-Shawon&show_icons=true)  
+![MH-Shawon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MH-Shawon&theme=monokai&hide_border=false)
+
+
 
