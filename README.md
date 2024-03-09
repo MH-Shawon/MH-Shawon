@@ -7,8 +7,7 @@
 - 💬 Ask me about Web Developing 
 - ⚡ Fun fact: I love to travel to new places and read novels.
 
-👨‍💻 Want to know more about me? <br/>
-- <a href="https://mohsin-hossain-portfolio.vercel.app/">Check out my portfolio.</a>
+👨‍💻 Want to know more about me?<br/>- <a href="https://mohsin-hossain-portfolio.vercel.app/">Check out my portfolio.</a>
 
 
 
