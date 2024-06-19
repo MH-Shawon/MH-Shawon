@@ -1,5 +1,5 @@
 ![github-header-image](https://github.com/MH-Shawon/MH-Shawon/assets/97009064/fd7dffe0-b109-4324-9080-4fbd6506db69)
-### Hi there I'm <a href="https://mohsin-hossain-portfolio.vercel.app/">Mohsin Hossain</a>
+### Hi there I'm <a href="https://mohsin-hossain.vercel.app/">Mohsin Hossain</a>
 #### Front-end Developer
 
 - 🌱 I’m currently learning React JS 
@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to travel to new places and read novels.
 
 👨‍💻 Want to know more about me?<br/> 
-- <a href="https://mohsin-hossain-portfolio.vercel.app/">Check out my portfolio.</a>
+- <a href="https://mohsin-hossain.vercel.app/">Check out my portfolio.</a>
 
 
 - 📫 How to reach me:<br/>
