@@ -40,6 +40,9 @@
 ---
 
 # 🔥 GitHub Activity Dashboard
+![Metrics](https://metrics.lecoq.io/MH-Shawon?template=classic&config.timezone=Asia/Dhaka&languages=1&achievements=1&habits=1&activity=1&isocalendar=1&calendar=1&repositories=1)
+
+
 
 # 📈 GitHub Stats
 
