@@ -39,7 +39,7 @@
 
 ---
 
-# 🔥 GitHub Activity Dashboard (Exact Look From Screenshot)
+# 🔥 GitHub Activity Dashboard
 
 > This is the **exact same style** (dark, glowing stat cards, top language, longest streak, universal rank, etc.)
 
