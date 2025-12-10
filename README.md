@@ -41,12 +41,6 @@
 
 # 🔥 GitHub Activity Dashboard
 
-### 📊 Full Metrics Card  
-
-![Metrics](https://metrics.lecoq.io/MH-Shawon?template=classic&base.header=0&base.metadata=0&config.timezone=Asia/Dhaka&calendar=1&isocalendar=1&languages=1&achievements=1&stargazers=1&activity=1&habits=1&repositories=1&lines=1&followup=1)
-
----
-
 # 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MH-Shawon&theme=monokai&show_icons=true&hide_border=false&layout=compact)
