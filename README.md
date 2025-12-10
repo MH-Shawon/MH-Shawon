@@ -41,10 +41,7 @@
 
 # 🔥 GitHub Activity Dashboard
 
-> This is the **exact same style** (dark, glowing stat cards, top language, longest streak, universal rank, etc.)
-
 ### 📊 Full Metrics Card  
-*(Generated with GitHub Metrics → Matches the screenshot style)*
 
 ![Metrics](https://metrics.lecoq.io/MH-Shawon?template=classic&base.header=0&base.metadata=0&config.timezone=Asia/Dhaka&calendar=1&isocalendar=1&languages=1&achievements=1&stargazers=1&activity=1&habits=1&repositories=1&lines=1&followup=1)
 
