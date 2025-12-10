@@ -42,15 +42,17 @@
 # 🔥 GitHub Activity Dashboard
 ![Metrics](https://metrics.lecoq.io/MH-Shawon?template=classic&config.timezone=Asia/Dhaka&languages=1&achievements=1&habits=1&activity=1&isocalendar=1&calendar=1&repositories=1)
 
-
-
-# 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MH-Shawon&theme=monokai&show_icons=true&hide_border=false&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MH-Shawon&theme=monokai&show_icons=true&hide_border=false&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MH-Shawon&theme=monokai&hide_border=false)
-
 ---
+
+# 📊 GitHub Stats
+
+### 🔥 Top Languages  
+![Top Languages](https://github-readme-stats-git-masterorg-v2-shieldsio.vercel.app/api/top-langs/?username=MH-Shawon&theme=monokai&layout=compact&hide_border=false)
+
+### 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats-git-masterorg-v2-shieldsio.vercel.app/api?username=MH-Shawon&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+
+### 🔥 Streak Stats  
+![GitHub Streak](https://streak-stats.demolab.com/?user=MH-Shawon&theme=monokai&hide_border=false)
+
 
